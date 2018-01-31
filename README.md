@@ -1,6 +1,6 @@
 # vn.py - By Traders, For Traders.
 
-目的：在 vn.py 基础上在py3上的适用性和一些自定义模块
+目的：在 vn.py 基础上增加在py3上的适用性和一些自定义模块
 ---
 ### 简介
 
